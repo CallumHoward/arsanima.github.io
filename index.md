@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Ars Anima
 
-You can use the [editor on GitHub](https://github.com/CallumHoward/arsanima.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Evolution gives rise to complex behaviours and outcomes, the motivations for which may be difficult to reason about based on the result alone. This difficulty can be attributed in part to the immense timescales required for evolutionary changes to occur. The aim of this research is to expose this enigmatic process visually, and show that incremental change can give rise to complex outcomes.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CallumHoward/arsanima.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ars Anima is a generative artificial life simulation, visualising the process of evolution. In the work, abstract virtual creatures live and die in an accelerated genetic struggle to be the fittest survivors. Through interacting with the work, curious audience members can explore unexpected behaviours that emerge as the creatures adapt to a changing virtual environment. The work employs practices of representation though visualisation, interaction design, and artificial intelligence, specifically the field of Evolutionary Art (EvoArt).
